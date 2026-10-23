@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49159093119",
+    "project_id": "servicehub-13a3e",
+    "storage_bucket": "servicehub-13a3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49159093119:android:134515001c6e09c411784a",
+        "android_client_info": {
+          "package_name": "com.servicehub.service_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJcWlrcbdQlOCv_R_8j5UHsBBZLb60Cy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
